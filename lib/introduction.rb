@@ -1,3 +1,4 @@
-def introduction(string)
+def introduction(name)
+  
   
 end
